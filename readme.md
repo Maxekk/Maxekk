@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A 17 old year high school student</h3>
+<h3 align="center">A 18 old year high school student</h3>
 <br>
 
 
